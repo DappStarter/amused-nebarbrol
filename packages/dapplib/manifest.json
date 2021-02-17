@@ -1,0 +1,17 @@
+{
+    "name": "SelfCert",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "SELFCERT",
+        "/category/asset_value_tracking/token/symbol": "SLFCT",
+        "/category/asset_value_tracking/token/decimals": "18",
+        "/category/asset_value_tracking/token/supply": "1000000000",
+        "/category/collection/entity": true
+    }
+}
